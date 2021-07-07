@@ -29,10 +29,10 @@ function soundfunc(key)
         case 'j': var audio = new Audio("https://github.com/sankave00/Drum-kit/blob/main/kick-bass.mp3?raw=true");
                   audio.play();
                   break;
-        case 'k': var audio = new Audio("https://github.com/sankave00/Drum-kit/blob/main/snare.mp3?raw=true"");
+        case 'k': var audio = new Audio("https://github.com/sankave00/Drum-kit/blob/main/snare.mp3?raw=true");
                   audio.play();
                   break;
-        case 'l': var audio = new Audio("https://github.com/sankave00/Drum-kit/blob/main/crash.mp3?raw=true"");
+        case 'l': var audio = new Audio("https://github.com/sankave00/Drum-kit/blob/main/crash.mp3?raw=true");
                   audio.play();
                   break;
     }
