@@ -38,6 +38,7 @@ function soundfunc(key)
     }
 
 }
+
 function animatefunc(key){
     var bpressed = document.querySelector("."+key);
     bpressed.classList.add("pressed");
